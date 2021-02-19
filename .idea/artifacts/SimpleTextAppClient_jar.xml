@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleTextAppClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleTextAppClient_jar</output-path>
+    <root id="archive" name="SimpleTextAppClient.jar">
+      <element id="module-output" name="SimpleTextAppClient" />
+    </root>
+  </artifact>
+</component>
